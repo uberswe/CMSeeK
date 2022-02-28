@@ -7,6 +7,10 @@
   <a href="https://twitter.com/r3dhax0r"><img src="https://img.shields.io/twitter/url/https/github.com/Tuhinshubhra/CMSeeK.svg?style=social" alt="Twitter" /></a>
 </p>
 
+## API
+
+This fork has been modified to run a web server with an API to perform queries.
+
 ## What is a CMS?
 > A content management system (CMS) manages the creation and modification of digital content. It typically supports multiple users in a collaborative environment. Some noteable examples are: *WordPress, Joomla, Drupal etc*.
 
